@@ -4,6 +4,7 @@
 ---
 | Papers | Link | Code | Published in |
 |---|---|---|---|
+| In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning | [Paper](https://arxiv.org/abs/1412.6614) | | ICLR 2015 |
 | Deep learning generalizes because the parameter-function map is biased towards simple functions | [ArXiV](https://arxiv.org/abs/1805.08522) | - | Pre-print |
 | Random deep neural networks are biased towards simple functions | [Paper](https://proceedings.neurips.cc/paper/2019/file/feab05aa91085b7a8012516bc3533958-Paper.pdf) | - | NeurIPS 2019 |
 | The Pitfalls of Simplicity Bias in Neural Networks | [Paper](https://proceedings.neurips.cc/paper/2020/file/6cfe0e6127fa25df2a0ef2ae1067d915-Paper.pdf) | [Code](https://github.com/harshays/simplicitybiaspitfalls) | NeurIPS 2020 |
@@ -21,6 +22,19 @@
 | Is Last Layer Re-Training Truly Sufficient for Robustness to Spurious Correlations? | [ArXiV](https://arxiv.org/abs/2308.00473) | - | - |
 | Shortcut learning in deep neural networks | [Paper](https://www.nature.com/articles/s42256-020-00257-z) [ArXiV](https://arxiv.org/abs/2004.07780) | | Nature Machine Intelligence 2020 |
 | Gradient Starvation: A Learning Proclivity in Neural Networks | [Paper](https://arxiv.org/pdf/2011.09468.pdf) | [Code](https://github.com/mpezeshki/Gradient_Starvation) | NeurIPS 2020 |
+| SGD on Neural Networks Learns Functions of Increasing Complexity | [Paper](https://dl.acm.org/doi/10.5555/3454287.3454601) | | NeurIPS 2019 |
+| Neural networks trained with SGD learn distributions of increasing complexity | [Paper](https://proceedings.mlr.press/v202/refinetti23a/refinetti23a.pdf) | [Code](https://github.com/sgoldt/dist_inc_comp.) | NeurIPS 2023 |
+| SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data | [ArXiV](https://arxiv.org/abs/1710.10174) | | Pre-print |
+| Intrinsic dimension of data representations in deep neural networks | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/cfcce0621b49c983991ead4c3d4d3b6b-Paper.pdf) | | NeurIPS 2019 |
+| Critical Learning Periods in Deep Neural Networks | [ArXiV](https://arxiv.org/abs/1711.08856) | [Code](https://github.com/uw-mad-dash/Accordion) | Pre-print |
+| Hierarchical nucleation in deep neural networks | [Paper](https://proceedings.neurips.cc/paper/2020/file/54f3bc04830d762a3b56a789b6ff62df-Paper.pdf) | [Code](https://github.com/diegodoimo/hierarchical_nucleation) | NeurIPS 2020 |
+| Do deep neural networks learn shallow learnable examples first? | [Paper](https://openreview.net/forum?id=HkxHv4rn24) | [Code](https://github.com/karttikeya/Shallow_to_Deep/) | ICML 2020 |
+| A closer look at memorization in deep networks | [Paper](https://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf) | | ICML 2017 |
+| What shapes feature representations? Exploring datasets, architectures, and training | [Paper](https://proceedings.nips.cc/paper/2020/file/71e9c6620d381d60196ebe694840aaaa-Paper.pdf) | | NeurIPS 2020 |
+| High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Frequency_Component_Helps_Explain_the_Generalization_of_Convolutional_Neural_Networks_CVPR_2020_paper.pdf) | [Code](https://github.com/HaohanWang/HFC) | CVPR 2020 |
+| Adversarial Perturbations Are Not So Weird: Entanglement of Robust and Non-Robust Features in Neural Network Classifiers | [ArXiV](https://arxiv.org/pdf/2102.05110.pdf) | | Pre-print |
+| Just Train Twice: Improving Group Robustness without Training Group Information | [Paper](http://proceedings.mlr.press/v139/liu21f/liu21f.pdf) | [Code](https://github.com/anniesch/jtt) | ICML 2021 |
+|---|---|---|---|
 ---
 ## Blogs
 ---
