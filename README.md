@@ -34,7 +34,6 @@
 | High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Frequency_Component_Helps_Explain_the_Generalization_of_Convolutional_Neural_Networks_CVPR_2020_paper.pdf) | [Code](https://github.com/HaohanWang/HFC) | CVPR 2020 |
 | Adversarial Perturbations Are Not So Weird: Entanglement of Robust and Non-Robust Features in Neural Network Classifiers | [ArXiV](https://arxiv.org/pdf/2102.05110.pdf) | | Pre-print |
 | Just Train Twice: Improving Group Robustness without Training Group Information | [Paper](http://proceedings.mlr.press/v139/liu21f/liu21f.pdf) | [Code](https://github.com/anniesch/jtt) | ICML 2021 |
-|---|---|---|---|
 ---
 ## Blogs
 ---
