@@ -4,19 +4,19 @@
 ---
 | Papers | Link | Code | Published in |
 |---|---|---|---|
-| 2015 |
+| *2015* |
 | In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning | [Paper](https://arxiv.org/abs/1412.6614) | | ICLR 2015 |
-| 2017 |
+| *2017* |
 | SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data | [ArXiV](https://arxiv.org/abs/1710.10174) | | Pre-print (2017) |
 | Critical Learning Periods in Deep Neural Networks | [ArXiV](https://arxiv.org/abs/1711.08856) | [Code](https://github.com/uw-mad-dash/Accordion) | Pre-print (2017) |
 | A closer look at memorization in deep networks | [Paper](https://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf) | | ICML 2017 |
-| 2018 |
+| *2018* |
 | Deep learning generalizes because the parameter-function map is biased towards simple functions | [ArXiV](https://arxiv.org/abs/1805.08522) | - | Pre-print (2018) |
-| 2019 |
+| *2019* |
 | SGD on Neural Networks Learns Functions of Increasing Complexity | [Paper](https://dl.acm.org/doi/10.5555/3454287.3454601) | | NeurIPS 2019 |
 | Intrinsic dimension of data representations in deep neural networks | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/cfcce0621b49c983991ead4c3d4d3b6b-Paper.pdf) | | NeurIPS 2019 |
 | Random deep neural networks are biased towards simple functions | [Paper](https://proceedings.neurips.cc/paper/2019/file/feab05aa91085b7a8012516bc3533958-Paper.pdf) | - | NeurIPS 2019 |
-| 2020 |
+| *2020* |
 | The Pitfalls of Simplicity Bias in Neural Networks | [Paper](https://proceedings.neurips.cc/paper/2020/file/6cfe0e6127fa25df2a0ef2ae1067d915-Paper.pdf) | [Code](https://github.com/harshays/simplicitybiaspitfalls) | NeurIPS 2020 |
 | Shortcut learning in deep neural networks | [Paper](https://www.nature.com/articles/s42256-020-00257-z) [ArXiV](https://arxiv.org/abs/2004.07780) | | Nature Machine Intelligence 2020 |
 | Gradient Starvation: A Learning Proclivity in Neural Networks | [Paper](https://arxiv.org/pdf/2011.09468.pdf) | [Code](https://github.com/mpezeshki/Gradient_Starvation) | NeurIPS 2020 |
@@ -24,17 +24,17 @@
 | Hierarchical nucleation in deep neural networks | [Paper](https://proceedings.neurips.cc/paper/2020/file/54f3bc04830d762a3b56a789b6ff62df-Paper.pdf) | [Code](https://github.com/diegodoimo/hierarchical_nucleation) | NeurIPS 2020 |
 | Do deep neural networks learn shallow learnable examples first? | [Paper](https://openreview.net/forum?id=HkxHv4rn24) | [Code](https://github.com/karttikeya/Shallow_to_Deep/) | ICML 2020 |
 | What shapes feature representations? Exploring datasets, architectures, and training | [Paper](https://proceedings.nips.cc/paper/2020/file/71e9c6620d381d60196ebe694840aaaa-Paper.pdf) | | NeurIPS 2020 |
-| 2021 |
+| *2021* |
 | Just Train Twice: Improving Group Robustness without Training Group Information | [Paper](http://proceedings.mlr.press/v139/liu21f/liu21f.pdf) | [Code](https://github.com/anniesch/jtt) | ICML 2021 |
 | Adversarial Perturbations Are Not So Weird: Entanglement of Robust and Non-Robust Features in Neural Network Classifiers | [ArXiV](https://arxiv.org/pdf/2102.05110.pdf) | | Pre-print (2021) |
 | The Low-Rank Simplicity Bias in Deep Networks | [Paper](https://minyoungg.github.io/overparam/resources/overparam-v3.pdf) | [Code](https://github.com/minyoungg/overparam) | TMLR 2021 |
 | Do Input Gradients Highlight Discriminative Features? | [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/0fe6a94848e5c68a54010b61b3e94b0e-Paper.pdf) | [Code](https://github.com/harshays/inputgradients)| NeurIPS 2021 |
 | Can contrastive learning avoid shortcut solutions? | [Paper](https://proceedings.neurips.cc/paper/2021/file/27934a1f19d678a1377c257b9a780e80-Paper.pdf) | [Code](https://github.com/joshr17/IFM) | NeurIPS 2021 |
-| 2022 |
+| *2022* |
 | Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization | [Paper](https://ehsanabb.github.io/assets/files/Evading_the_Simplicity_Bias_CVPR_2022_paper.pdf) | | CVPR 2022 |
 | Self-supervised debiasing using low rank regularization | [OpenReview](https://openreview.net/forum?id=PHpK5B2iGpq) | - | Pre-print (2022) |
 | Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations | [ArXiV](https://arxiv.org/abs/2204.02937) | - | Pre-print (2022) |
-| 2023 |
+| *2023* |
 | Simplicity Bias in 1-Hidden Layer Neural Networks | [Paper](https://neurips.cc/virtual/2023/poster/71765) | - | NeurIPS 2023 (Poster) |
 | Overcoming Simplicity Bias in Deep Networks using a Feature Sieve | [Paper](https://proceedings.mlr.press/v202/tiwari23a/tiwari23a.pdf) | - | ICML 2023 |
 | Delving Deep into Simplicity Bias for Long-Tailed Image Recognition | [ArXiv](https://arxiv.org/abs/2302.03264) | - | Pre-print (2023) |
