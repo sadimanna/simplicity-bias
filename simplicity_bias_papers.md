@@ -13,7 +13,7 @@
 </thead>
 <tbody>
 <tr>
-<td><em>2015</em></td>
+<td colspan=4><p align='center'><b><em>2015</em></b></p></td>
 </tr>
 <tr>
 <td>In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning</td>
@@ -22,7 +22,7 @@
 <td>ICLR 2015</td>
 </tr>
 <tr>
-<td><em>2017</em></td>
+<td colspan=4><p align='center'><b><em>2017</em></b></p></td>
 </tr>
 <tr>
 <td>SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data</td>
@@ -43,7 +43,7 @@
 <td>ICML 2017</td>
 </tr>
 <tr>
-<td><em>2018</em></td>
+<td colspan=4><p align='center'><b><em>2018</em></b></p></td>
 </tr>
 <tr>
 <td>Deep learning generalizes because the parameter-function map is biased towards simple functions</td>
@@ -52,7 +52,7 @@
 <td>Pre-print (2018)</td>
 </tr>
 <tr>
-<td><em>2019</em></td>
+<td colspan=4><p align='center'><b><em>2019</em></b></p></td>
 </tr>
 <tr>
 <td>SGD on Neural Networks Learns Functions of Increasing Complexity</td>
@@ -73,7 +73,7 @@
 <td>NeurIPS 2019</td>
 </tr>
 <tr>
-<td><em>2020</em></td>
+<td colspan=4><p align='center'><b><em>2020</em></b></p></td>
 </tr>
 <tr>
 <td>The Pitfalls of Simplicity Bias in Neural Networks</td>
@@ -118,7 +118,7 @@
 <td>NeurIPS 2020</td>
 </tr>
 <tr>
-<td><em>2021</em></td>
+<td colspan=4><p align='center'><b><em>2021</em></b></p></td>
 </tr>
 <tr>
 <td>Just Train Twice: Improving Group Robustness without Training Group Information</td>
@@ -151,7 +151,7 @@
 <td>NeurIPS 2021</td>
 </tr>
 <tr>
-<td><em>2022</em></td>
+<td colspan=4><p align='center'><b><em>2022</em></b></p></td>
 </tr>
 <tr>
 <td>Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization</td>
@@ -172,7 +172,7 @@
 <td>Pre-print (2022)</td>
 </tr>
 <tr>
-<td><em>2023</em></td>
+<td colspan=4><p align='center'><b><em>2023</em></b></p></td>
 </tr>
 <tr>
 <td>Simplicity Bias in 1-Hidden Layer Neural Networks</td>
